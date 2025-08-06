@@ -36,7 +36,11 @@ I chase the sweet spot where logic and imagination meet.
 
 ## 📌 Featured Projects
 - 🔍 **[Credit Card Customer Analysis (Churn Prediction)](https://github.com/Themis-art/minicurso-analise-dados)**  
-  Exploratory analysis to identify patterns among customers with a higher risk of canceling their credit cards.  
+  Exploratory analysis to identify patterns among customers with a higher risk of canceling their credit cards. <br>
+
+- 🎮 **[Flappy Bird Mock](https://github.com/Themis-art/FlappyBirdMock)**  
+  First Python project — a simple **Flappy Bird** clone built while following the free Hashtag Treinamentos course.  
+  My first experience with both **Pygame** and **game development**.
 
 ## 📫 Let’s connect!
 💼 [LinkedIn](www.linkedin.com/in/marina-almeida-gonzalez-papadopolis) 
